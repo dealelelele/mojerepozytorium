@@ -39,10 +39,15 @@ h1 {
 
 img{
     max-width: 500px;
+    position: relative; left: 400px;
+
     
 }
 
-
+p span{
+    background-color: lightgray;
+    
+}
 
 
 p{
